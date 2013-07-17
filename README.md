@@ -1,5 +1,5 @@
 La-Classe-Americaine
 ====================
-Ouiche-Lorraine-Team
+Ouiche-Lorraine-Team : Molusk & Kalu
 
 Jeu la classe américaine
