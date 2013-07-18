@@ -41,6 +41,9 @@ ecran=pygame.display.set_mode((320,240))
 
 niveau=pygame.image.load('niveaupo2.png').convert()
 
+mario = pygame.image.load("mario.png")
+
+
 mario_x=32
 mario_y=192
 
